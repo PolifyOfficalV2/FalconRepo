@@ -1,0 +1,39 @@
+[
+
+{
+"title":"Infinite Yield",
+"tagone":"# Admin",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source%27))()",
+},
+
+{
+"title":"Fates Admin",
+"tagone":"# Admin",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua%27))()",
+},
+
+{
+"title":"Hydroxide Remote Spy",
+"tagone":"# Remote Spy",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/S4sM7Hh8%27))()",
+},
+
+{
+"title":"Dark Dex V3",
+"tagone":"# Dex",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/YREfugjX%27))()",
+},
+
+{
+"title":"Owl Hub",
+"tagone":"# Hub",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt%27))()",
+},
+
+{
+"title":"Universal ESP and aimbot",
+"tagone":"# Universal",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua%27))()",
+}
+
+]
